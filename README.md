@@ -4,6 +4,10 @@
 
 C# and .Net
 
+The main code is in letterOccurances folder.
+
+The unit test code is in UnitTestProject1 folder.
+
 # Documentation
 
 Retrieve the current working directory.
