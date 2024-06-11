@@ -1,0 +1,28 @@
+C:\Users\Kevin.Hyde-Opoku\Infinit test\lodash\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.exe.config
+C:\Users\Kevin.Hyde-Opoku\Infinit test\lodash\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.exe
+C:\Users\Kevin.Hyde-Opoku\Infinit test\lodash\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.pdb
+C:\Users\Kevin.Hyde-Opoku\Infinit test\lodash\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.csproj.AssemblyReference.cache
+C:\Users\Kevin.Hyde-Opoku\Infinit test\lodash\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.csproj.CoreCompileInputs.cache
+C:\Users\Kevin.Hyde-Opoku\Infinit test\lodash\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.exe
+C:\Users\Kevin.Hyde-Opoku\Infinit test\lodash\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.pdb
+C:\InfinitTest\lodash\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.exe.config
+C:\InfinitTest\lodash\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.exe
+C:\InfinitTest\lodash\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.pdb
+C:\InfinitTest\lodash\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.csproj.AssemblyReference.cache
+C:\InfinitTest\lodash\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.csproj.CoreCompileInputs.cache
+C:\InfinitTest\lodash\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.exe
+C:\InfinitTest\lodash\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.pdb
+C:\Users\Kevin.Hyde-Opoku\count-letters\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.exe.config
+C:\Users\Kevin.Hyde-Opoku\count-letters\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.exe
+C:\Users\Kevin.Hyde-Opoku\count-letters\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.pdb
+C:\Users\Kevin.Hyde-Opoku\count-letters\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.csproj.AssemblyReference.cache
+C:\Users\Kevin.Hyde-Opoku\count-letters\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.csproj.CoreCompileInputs.cache
+C:\Users\Kevin.Hyde-Opoku\count-letters\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.exe
+C:\Users\Kevin.Hyde-Opoku\count-letters\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.pdb
+C:\count-letters\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.exe.config
+C:\count-letters\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.exe
+C:\count-letters\c_sharp_program\letterOccurances\letterOccurances\bin\Debug\letterOccurances.pdb
+C:\count-letters\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.csproj.AssemblyReference.cache
+C:\count-letters\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.csproj.CoreCompileInputs.cache
+C:\count-letters\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.exe
+C:\count-letters\c_sharp_program\letterOccurances\letterOccurances\obj\Debug\letterOccurances.pdb
